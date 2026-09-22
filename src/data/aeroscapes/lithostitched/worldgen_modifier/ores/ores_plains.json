@@ -1,5 +1,6 @@
 {
   "type": "lithostitched:add_features",
+  "levels": ["aeroscapes:aero_islands"],
   "biomes": "#aeroscapes:modifiers/presets/plains",
   "features": [
 	"aeroscapes:ores/ore_copper_half",

@@ -1,9 +1,7 @@
 {
 	"type": "lithostitched:add_surface_rule",
 	"priority": 2000,
-	"levels": [
-		"minecraft:overworld"
-	],
+	"levels": ["aeroscapes:aero_islands"],
 	"surface_rule": {
 		"type": "minecraft:condition",
 		"if_true": {

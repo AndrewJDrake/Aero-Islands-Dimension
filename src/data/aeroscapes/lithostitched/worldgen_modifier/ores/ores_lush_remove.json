@@ -1,5 +1,6 @@
 {
   "type": "lithostitched:remove_features",
+  "levels": ["aeroscapes:aero_islands"],
   "biomes": "#aeroscapes:modifiers/presets/lush_ores",
   "features": [
 	"minecraft:ore_coal_upper",

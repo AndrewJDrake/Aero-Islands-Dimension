@@ -1,5 +1,6 @@
 {
   "type": "lithostitched:add_features",
+  "levels": ["aeroscapes:aero_islands"],
   "biomes": "#aeroscapes:modifiers/presets/void",
   "features": [
 	"aeroscapes:overhang/overhang_features_void"

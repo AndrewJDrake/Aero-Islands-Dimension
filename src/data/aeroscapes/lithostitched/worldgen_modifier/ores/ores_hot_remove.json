@@ -1,5 +1,6 @@
 {
   "type": "lithostitched:remove_features",
+  "levels": ["aeroscapes:aero_islands"],
   "biomes": "#aeroscapes:modifiers/presets/hot",
   "features": [
 	"minecraft:ore_diamond",
