@@ -1,9 +1,9 @@
 {
   "carvers": {
     "air": [
-		"minecraft:cave",
-		"minecraft:cave_extra_underground",
-		"minecraft:canyon"
+		"aeroscapes:cave",
+		"aeroscapes:cave_extra_underground",
+		"aeroscapes:canyon"
     ]
   },
   "downfall": 0.5,

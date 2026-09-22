@@ -204541,7 +204541,7 @@
 		},
         "structure_overrides": [
             "#minecraft:trial_chambers",
-            "minecraft:ancient_city",
+            "aeroscapes:ancient_cities",
             "minecraft:trail_ruins",
             "minecraft:ruined_portal",
             "awesomedungeon:abandoned_oak_palace",

@@ -1,6 +1,6 @@
 {
   "type": "lithostitched:replace_partially",
-  "dimension": "aeroscapes:aero_island",
+  "dimension": "aeroscapes:aero_islands",
   "targets": "minecraft:mushroom_fields",
   "replacement": "aeroscapes:hallowed_isles",
   "parameters": {

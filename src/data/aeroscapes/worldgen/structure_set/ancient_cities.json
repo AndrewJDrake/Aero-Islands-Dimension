@@ -7,7 +7,7 @@
   },
   "structures": [
     {
-      "structure": "minecraft:ancient_city",
+      "structure": "aeroscapes:ancient_city",
       "weight": 1
     }
   ]
