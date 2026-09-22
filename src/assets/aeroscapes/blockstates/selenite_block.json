@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "aeroscapes:block/selenite_block_0", "weight": 1 },
+      { "model": "aeroscapes:block/selenite_block_1", "weight": 1 }
+    ]
+  }
+}

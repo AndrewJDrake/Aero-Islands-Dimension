@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "aeroscapes:selenite_shard"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "aeroscapes:selenite_lamp"
+  }
+}

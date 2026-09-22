@@ -1,0 +1,65 @@
+{
+  "music_disc.yaw": {
+    "sounds": [
+      {
+        "name": "aeroscapes:records/yaw",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.view": {
+    "sounds": [
+      {
+        "name": "aeroscapes:records/view",
+        "stream": true
+      }
+    ]
+  },
+  "item.aerolite_charm.fail": {
+    "sounds": [
+      {
+        "name": "entity/endereye/dead1",
+        "volume": 1.3
+      },
+      {
+        "name": "entity/endereye/dead2",
+        "volume": 1.3
+      }
+    ],
+    "subtitle": "subtitles.item.aeroscapes.aerolite_charm.fail"
+  },
+  "item.aerolite_charm.success": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "subtitles.item.aeroscapes.aerolite_charm.success"
+  },
+  "block.selenite.ambient": {
+    "sounds": [
+      "block/trial_spawner/ambient1",
+      "block/trial_spawner/ambient2",
+      "block/trial_spawner/ambient3",
+      "block/trial_spawner/ambient4",
+      "block/trial_spawner/ambient5"
+    ],
+    "subtitle": "subtitles.block.aeroscapes.selenite.ambient"
+  },
+  "block.selenite_lamp.charge": {
+    "sounds": [
+      "block/amethyst/step1",
+      "block/amethyst/step2",
+      "block/amethyst/step3",
+      "block/amethyst/step4",
+      "block/amethyst/step5",
+      "block/amethyst/step6",
+      "block/amethyst/step7",
+      "block/amethyst/step8",
+      "block/amethyst/step9",
+      "block/amethyst/step10",
+      "block/amethyst/step11",
+      "block/amethyst/step12"
+    ],
+    "subtitle": "subtitles.block.aeroscapes.selenite_lamp.charge"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "aeroscapes:selenite_block"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "count": 3,
+      "id": "aeroscapes:selenite_shard"
+    },
+    {
+      "chance": 0.5,
+      "id": "aeroscapes:selenite_shard"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "aeroscapes:block/selenite_crystal",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "aeroscapes:block/selenite_crystal",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "aeroscapes:block/selenite_crystal",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "aeroscapes:block/selenite_crystal",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "aeroscapes:block/selenite_crystal"
+    },
+    "facing=west": {
+      "model": "aeroscapes:block/selenite_crystal",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

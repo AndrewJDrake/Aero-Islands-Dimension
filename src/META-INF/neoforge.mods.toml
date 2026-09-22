@@ -1,0 +1,55 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[1,)" #mandatory
+
+license="GNU GPL v3.0+"
+
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+[[mods]] #mandatory
+
+modId="aeroscapes" #mandatory
+
+version="1.1.1" #mandatory
+
+displayName="Aero Islands" #mandatory
+
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+
+logoFile="icon.png" #optional
+
+#credits="" #optional
+
+authors="Isabel"
+
+description='''
+Floating island world generation and unique features from Isabel's Aeroscapes.
+'''
+
+[[mixins]]
+config="aeroscapes.mixins.json"
+
+#[[accessTransformers]]
+#file="META-INF/accesstransformer.cfg"
+
+# The coremods config file path is not configurable and is always loaded from META-INF/coremods.json
+
+[[dependencies.aeroscapes]] #optional
+    modId="neoforge" #mandatory
+    type="required" #mandatory
+    versionRange="[21.1.230,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.aeroscapes]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+#[features.aeroscapes]
+#openGLVersion="[3.2,)"

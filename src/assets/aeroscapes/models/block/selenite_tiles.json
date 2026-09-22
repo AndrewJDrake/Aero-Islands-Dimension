@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "aeroscapes:block/selenite_tiles_top",
+    "side": "aeroscapes:block/selenite_tiles_side"
+  }
+}

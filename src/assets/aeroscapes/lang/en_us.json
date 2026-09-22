@@ -1,0 +1,60 @@
+{
+    "block.aeroscapes.aerolite": "Aerolite",
+    "block.aeroscapes.gold_aerolite": "Gilded Aerolite",
+    "item.aeroscapes.crushed_aerolite": "Crushed Aerolite",
+
+    "aeroscapes.tooltip.holdForSummary": "Hold [§7Shift§8] for Summary",
+
+    "block.aeroscapes.quickslate": "Quickslate",
+    "block.aeroscapes.quickslate_slab": "Quickslate Slab",
+    "block.aeroscapes.quickslate_stairs": "Quickslate Stairs",
+    "block.aeroscapes.quickslate_wall": "Quickslate Wall",
+
+    "block.aeroscapes.pointed_basalt": "Pointed Basalt",
+    "block.aeroscapes.selenite_block": "Selenite Block",
+    "item.aeroscapes.selenite_shard": "Selenite Shard",
+    "block.aeroscapes.selenite_tiles": "Selenite Tiles",
+
+    "block.aeroscapes.selenite_lamp": "Selenite Lamp",
+    "item.aeroscapes.selenite_lamp.summary.0": "Dampens monster spawns",
+    "item.aeroscapes.selenite_lamp.summary.1": "in a wide radius when charged",
+    "item.aeroscapes.selenite_lamp.summary.2": "with Selenite Shards.",
+
+    "block.aeroscapes.selenite_crystal": "Selenite Crystal",
+    "item.aeroscapes.selenite_crystal.summary.0": "Prevents monster spawns",
+    "item.aeroscapes.selenite_crystal.summary.1": "in a short radius.",
+
+    "block.aeroscapes.polished_quickslate": "Polished Quickslate",
+    "block.aeroscapes.polished_quickslate_slab": "Polished Quickslate Slab",
+    "block.aeroscapes.polished_quickslate_stairs": "Polished Quickslate Stairs",
+    "block.aeroscapes.polished_quickslate_wall": "Polished Quickslate Wall",
+    "block.aeroscapes.chiseled_quickslate": "Chiseled Quickslate",
+
+    "item.aeroscapes.aerolite_twig": "Aerolite Twig",
+    "item.aeroscapes.aerolite_twig.summary.0": "Surprisingly light. Can be eaten",
+    "item.aeroscapes.aerolite_twig.summary.1": "for a burst of levitation.",
+
+    "item.aeroscapes.golden_aerolite_twig": "Golden Aerolite Twig",
+    "item.aeroscapes.golden_aerolite_twig.summary.0": "Encrusted in gold. Can be eaten",
+    "item.aeroscapes.golden_aerolite_twig.summary.1": "for speed and levitation.",
+
+    "item.aeroscapes.aerolite_charm": "Aerolite Charm",
+    "item.aeroscapes.aerolite_charm.summary.0": "Use while standing underneath",
+    "item.aeroscapes.aerolite_charm.summary.1": "solid blocks to teleport up",
+    "item.aeroscapes.aerolite_charm.summary.2": "to the surface.",
+
+    "subtitles.item.aeroscapes.aerolite_charm.fail": "Aerolite Charm Fizzles",
+    "subtitles.item.aeroscapes.aerolite_charm.success": "Player Teleports",
+    "subtitles.block.aeroscapes.selenite.ambient": "Selenite Hums",
+    "subtitles.block.aeroscapes.selenite_lamp.charge": "Selenite Lamp Charges",
+
+    "item.aeroscapes.music_disc_yaw.desc": "Elephants - yaw",
+    "item.aeroscapes.music_disc_view.desc": "Elephants - view",
+    "item.aeroscapes.music_disc_yaw": "Music Disc",
+    "item.aeroscapes.music_disc_view": "Music Disc",
+
+    "biome.aeroscapes.void_shores": "Void Shores",
+    "biome.aeroscapes.voidsea": "Voidsea",
+    "biome.aeroscapes.deep_voidsea": "Deep Voidsea",
+    "biome.aeroscapes.hallowed_isles": "Hallowed Isles"
+}

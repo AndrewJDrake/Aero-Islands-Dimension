@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aeroscapes:block/gold_aerolite_2"
+  },
+  "render_type": "minecraft:cutout"
+}
